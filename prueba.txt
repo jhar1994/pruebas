@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 perteneciente al la rama master.
+||||||| ac5c6bf
+=======
+hola por fin vamos hacer esto.
+Modificando rama 1.
+>>>>>>> rama1
